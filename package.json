@@ -1,0 +1,24 @@
+{
+  "name": "react-native-autocomplete",
+  "version": "1.0.0",
+  "description": "Autocomplete input component for react native apps",
+  "main": "src/index.js",
+  "bin": "",
+  "scripts": {
+    "test": "node/index.js"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "autocomplete",
+    "react-native-autocomplete",
+    "ts"
+  ],
+  "author": "Sardorbek",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoeMartin2001/react-native-autocomplete"
+  },
+  "homepage": "https://github.com/JoeMartin2001/react-native-autocomplete#readme"
+}
